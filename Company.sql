@@ -71,7 +71,7 @@ WHERE emp_id = 5;
 DELETE FROM Employees
 WHERE emp_id = 9;
 
--- Delete all employees in the 'Marketing' department
+-- Delete all employees in the 'HR' department
 DELETE FROM Employees
 WHERE department = 'HR';
 
